@@ -1,8 +1,8 @@
 import streamlit as st
 from datetime import datetime, timedelta
 # Define URLs for video and image
-your_video_url = '/Users/kunnath/Projects/Talentfinder/1.mov'
-your_image_url_or_path = '/Users/kunnath/Projects/Talentfinder/Screenshot1.png'
+your_video_url = './1.mov'
+your_image_url_or_path = './Screenshot1.png'
 
 # Title and sidebar navigation
 st.set_page_config(page_title="Extracurricular Activities Platform", layout="wide")
