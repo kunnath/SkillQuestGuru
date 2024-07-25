@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime, timedelta
 # Define URLs for video and image
-your_video_url = '/Users/kunnath/Projects/Talentfinder/sports.mov'
+your_video_url = '/Users/kunnath/Projects/Talentfinder/1.mov'
 your_image_url_or_path = '/Users/kunnath/Projects/Talentfinder/Screenshot1.png'
 
 # Title and sidebar navigation
